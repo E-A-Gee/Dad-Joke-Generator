@@ -5,5 +5,5 @@
 
 Asks for a topic and returns a joke from www.icanhazdadjoke.com.
 
-This is a project The Modern Python 3 Bootcamp on Udemy with instructor Colt Steele. Dad Joke Generator is a project from the Making HTTP Requests with Python section.
+This is a project The Modern Python 3 Bootcamp on Udemy with instructor Colt Steele. Dad Joke Generator is a project from the Making HTTP Requests with Python section where making GET requests and utilizing APIs are covered. 
 
